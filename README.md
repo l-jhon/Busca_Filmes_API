@@ -1,1 +1,1 @@
-# Busca_Filmes_API
+# Buscando informações de filmes através da API OMDBAPI
